@@ -1,0 +1,13 @@
+body{
+	background-color: beige;
+	border: 2px black dotted;
+	margin-left: 5%;
+	margin-right: 5%;
+
+	font-family: fantasy;
+	font-size: 12px;
+}
+h2.myGrey{
+	background-color: bisque;
+}
+}
